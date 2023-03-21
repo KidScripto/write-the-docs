@@ -2,6 +2,8 @@
 layout: default
 title: Home
 ---
+
+
 # My GitHub Pages site
 
 ## Basic terminology
